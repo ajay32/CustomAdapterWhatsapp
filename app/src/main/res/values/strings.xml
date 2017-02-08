@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">CustomAdapterWhatsapp</string>
+
+
+    <string-array name="users">
+        <item>Locals</item>
+        <item>World</item>
+        <item>Profile</item>
+        <item>Favorites</item>
+        <item>Viewed</item>
+        <item>Messages</item>
+        <item>Locals</item>
+        <item>World</item>
+        <item>Profile</item>
+        <item>Favorites</item>
+        <item>Viewed</item>
+        <item>Messages</item>
+        <item>Locals</item>
+        <item>World</item>
+        <item>Profile</item>
+        <item>Favorites</item>
+        <item>Viewed</item>
+        <item>Messages</item>
+        <item>Locals</item>
+        <item>World</item>
+        <item>Profile</item>
+        <item>Favorites</item>
+        <item>Viewed</item>
+        <item>Messages</item>
+
+    </string-array>
+</resources>
